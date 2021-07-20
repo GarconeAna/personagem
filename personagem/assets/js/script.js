@@ -37,7 +37,7 @@ elementoBotao.addEventListener('click', () =>{
     elementoBotao.value = 'nono'
   } else if(elementoBotao.value == 'nono'){
     elementoImagem.src = './assets/img/luke-mortedopai.png'
-    elementoMomento.innerText = 'E então sua morte, seu filho o mata. Luke Skywalker, mata Anakin Skywalker.'
+    elementoMomento.innerText = 'E então sua morte.'
     elementoBotao.value = 'decimo'
   } else {
     elementoImagem.src = './assets/img/anakin-bebe.jpg'
